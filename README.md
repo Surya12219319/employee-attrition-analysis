@@ -51,6 +51,8 @@ Work Life Balance
 Attrition (Yes / No)
 
 ⚙️ Project Workflow
+
+
 1️⃣ Data Cleaning
 
 The dataset was cleaned using PySpark to ensure consistency and accuracy.
@@ -68,6 +70,8 @@ Preparing structured data for analysis
 Clean dataset file:
 
 employee_attrition_dataset.csv
+
+
 2️⃣ Data Analysis
 
 Exploratory data analysis and KPI calculations were performed in Microsoft Excel.
@@ -94,6 +98,8 @@ Average Monthly Income	₹6502
 Excel file:
 
 employee_attrition_analysis.xlsx
+
+
 3️⃣ Data Visualization
 
 An interactive HR analytics dashboard was developed using Tableau Public.
@@ -122,6 +128,8 @@ Attrition by Gender
 
 Attrition by Education Field
 
+
+
 📈 Tableau Dashboard
 
 Interactive dashboard link:
@@ -135,6 +143,8 @@ Tool	Purpose
 PySpark	Data cleaning & preprocessing
 Microsoft Excel	Data analysis & KPI calculation
 Tableau Public	Dashboard visualization
+
+
 📁 Project Structure
 Employee-Attrition-Analysis
 │
@@ -148,6 +158,8 @@ Employee-Attrition-Analysis
 │   └── employee_attrition_dashboard.png
 │
 └── README.md
+
+
 🔍 Key Insights
 
 Key observations from the analysis:
@@ -162,6 +174,8 @@ Attrition is influenced by factors such as job role, experience, and salary
 
 These insights can support organizations in improving employee retention strategies.
 
+
+
 🚀 Future Enhancements
 
 Possible improvements for this project:
@@ -173,6 +187,7 @@ Build predictive models using Python
 Automate data pipelines using ETL workflows
 
 Integrate dashboards with real-time HR datasets
+
 
 👨‍💻 Author
 
